@@ -1,0 +1,8 @@
+-En Orden para poder utilizar el programa primero debera:
+1-EJECUTAR EL Query y crear la base de datos
+2-EJECUTAR EL WCF e ir a appconfig en SVC y cambiar el conexion string al de la maquina
+3-En EL WCF cambiar el WEB config en el Site
+4-ASIGNAR EL PROYECTO SITE COMO PROYECTO DE INICIO EJECUTAR EL WCF
+5-EJECUTAR EL WEB Y ASIGNAR ELÑ PROYECTO PL COMO PROYECTO DE INICIO
+6-ASIGNAR LA PAGINA INGRESO.ASPX COMO PAGINA DE INICIO
+7-EJECUITAR WEB Y LISTO EL PROGRAMA DBERIA DE FUNCIONAR 
