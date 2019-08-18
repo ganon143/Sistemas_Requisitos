@@ -1,0 +1,50 @@
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Debug\SVC.dll.config
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Debug\SVC.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Debug\SVC.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Debug\BLL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Debug\DAL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Debug\BLL.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Debug\DAL.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\obj\Debug\SVC.csprojResolveAssemblyReference.cache
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\obj\Debug\SVC.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\obj\Debug\SVC.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\SVC.dll.config
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\SVC.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\SVC.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\BLL.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\DAL.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\BLL.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\DAL.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SVC\obj\Debug\SVC.csprojResolveAssemblyReference.cache
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SVC\obj\Debug\SVC.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SVC\obj\Debug\SVC.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SVC\bin\Debug\SVC.dll.config
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SVC\bin\Debug\SVC.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SVC\bin\Debug\SVC.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SVC\bin\Debug\BLL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SVC\bin\Debug\DAL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SVC\bin\Debug\BLL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SVC\bin\Debug\DAL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SVC\obj\Debug\SVC.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SVC\obj\Debug\SVC.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SVC\obj\Debug\SVC.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\SVC.dll.config
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\SVC.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\SVC.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\BLL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\DAL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\BLL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Debug\DAL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\obj\Debug\SVC.csprojResolveAssemblyReference.cache
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\obj\Debug\SVC.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\obj\Debug\SVC.pdb
+C:\Users\u\Desktop\Solutions+DB\WCF\SVC\bin\Debug\SVC.dll.config
+C:\Users\u\Desktop\Solutions+DB\WCF\SVC\bin\Debug\SVC.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SVC\bin\Debug\SVC.pdb
+C:\Users\u\Desktop\Solutions+DB\WCF\SVC\bin\Debug\BLL.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SVC\bin\Debug\DAL.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SVC\bin\Debug\BLL.pdb
+C:\Users\u\Desktop\Solutions+DB\WCF\SVC\bin\Debug\DAL.pdb
+C:\Users\u\Desktop\Solutions+DB\WCF\SVC\obj\Debug\SVC.csprojResolveAssemblyReference.cache
+C:\Users\u\Desktop\Solutions+DB\WCF\SVC\obj\Debug\SVC.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SVC\obj\Debug\SVC.pdb

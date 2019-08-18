@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="SQL_AUT-Web.config Connection String" description="SQL_AUT Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=freeteoria.database.windows.net;&#xD;&#xA;                                   Initial Catalog = DB_SISTEMA;&#xD;&#xA;                                   Persist Security Info=True;&#xD;&#xA;                                   user id = SuperAdmin;&#xD;&#xA;                                   Password = Admin123456789;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ExtremeTech\\Downloads\\SeriesNet\\TEORIA-SITEMAS-master\\WCF\\SITE\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SQL_AUT']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="62d6ac6b-c47f-4e7e-a6a4-2870a7ad38bc" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://wcfre.azurewebsites.net/BDService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BDService.xsd" MetadataType="Schema" ID="19ee471b-d8ba-4dd6-95e8-2d024dbdaedd" SourceId="1" SourceUrl="http://wcfre.azurewebsites.net/BDService.svc?xsd=xsd0" />
+    <MetadataFile FileName="BDService1.xsd" MetadataType="Schema" ID="9c10f7f9-f639-4bc3-b607-9a55f465a28d" SourceId="1" SourceUrl="http://wcfre.azurewebsites.net/BDService.svc?xsd=xsd2" />
+    <MetadataFile FileName="BDService2.xsd" MetadataType="Schema" ID="f2803a45-323d-49f8-88ac-115a645e72ba" SourceId="1" SourceUrl="http://wcfre.azurewebsites.net/BDService.svc?xsd=xsd1" />
+    <MetadataFile FileName="BDService.wsdl" MetadataType="Wsdl" ID="a307cc2a-6037-4c8c-8961-58a184378d6f" SourceId="1" SourceUrl="http://wcfre.azurewebsites.net/BDService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

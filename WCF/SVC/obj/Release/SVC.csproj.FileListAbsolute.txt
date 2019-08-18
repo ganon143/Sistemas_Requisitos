@@ -1,0 +1,20 @@
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Release\SVC.dll.config
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Release\SVC.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Release\SVC.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Release\BLL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Release\DAL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Release\BLL.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\bin\Release\DAL.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\obj\Release\SVC.csprojResolveAssemblyReference.cache
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\obj\Release\SVC.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SVC\obj\Release\SVC.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Release\SVC.dll.config
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Release\SVC.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Release\SVC.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Release\BLL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Release\DAL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Release\BLL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\bin\Release\DAL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\obj\Release\SVC.csprojResolveAssemblyReference.cache
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\obj\Release\SVC.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SVC\obj\Release\SVC.pdb

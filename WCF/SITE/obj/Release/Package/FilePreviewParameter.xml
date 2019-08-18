@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WCFre" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ExtremeTech\\Downloads\\SeriesNet\\TEORIA-SITEMAS-master\\WCF\\SITE\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\ExtremeTech\\Downloads\\SeriesNet\\TEORIA-SITEMAS-master\\WCF\\SITE\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="SQL_AUT-Web.config Connection String" description="" value="Data Source=freeteoria.database.windows.net;Initial Catalog=DB_SISTEMA;User ID=SuperAdmin;Password=Admin123456789" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ExtremeTech\\Downloads\\SeriesNet\\TEORIA-SITEMAS-master\\WCF\\SITE\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SQL_AUT']/@connectionString" />
+  </parameter>
+</parameters>

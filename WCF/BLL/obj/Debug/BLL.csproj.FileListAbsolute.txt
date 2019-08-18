@@ -1,0 +1,28 @@
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\bin\Debug\BLL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\bin\Debug\BLL.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\bin\Debug\DAL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\bin\Debug\DAL.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\obj\Debug\BLL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\obj\Debug\BLL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\BLL\bin\Debug\BLL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\BLL\bin\Debug\BLL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\BLL\bin\Debug\DAL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\BLL\bin\Debug\DAL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\BLL\obj\Debug\BLL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\BLL\obj\Debug\BLL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\bin\Debug\BLL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\bin\Debug\BLL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\bin\Debug\DAL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\bin\Debug\DAL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\obj\Debug\BLL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\obj\Debug\BLL.pdb
+C:\Users\u\Desktop\Solutions+DB\WCF\BLL\bin\Debug\BLL.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\BLL\bin\Debug\BLL.pdb
+C:\Users\u\Desktop\Solutions+DB\WCF\BLL\bin\Debug\DAL.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\BLL\bin\Debug\DAL.pdb
+C:\Users\u\Desktop\Solutions+DB\WCF\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\u\Desktop\Solutions+DB\WCF\BLL\obj\Debug\BLL.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\BLL\obj\Debug\BLL.pdb

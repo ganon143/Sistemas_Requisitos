@@ -1,0 +1,14 @@
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\bin\Release\BLL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\bin\Release\BLL.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\bin\Release\DAL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\bin\Release\DAL.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\obj\Release\BLL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\BLL\obj\Release\BLL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\bin\Release\BLL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\bin\Release\BLL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\bin\Release\DAL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\bin\Release\DAL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\obj\Release\BLL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\BLL\obj\Release\BLL.pdb

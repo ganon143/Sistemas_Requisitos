@@ -1,0 +1,125 @@
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\ApplicationInsights.config
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\SITE.dll.config
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\SITE.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\SITE.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\Microsoft.AI.Web.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\Microsoft.ApplicationInsights.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\SVC.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\BLL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\DAL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\SVC.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\Microsoft.AI.Web.xml
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\Microsoft.ApplicationInsights.xml
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\BLL.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\bin\DAL.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\obj\Debug\SITE.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\SITE\obj\Debug\SITE.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\ApplicationInsights.config
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\SITE.dll.config
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\SITE.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\SITE.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.Web.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.ApplicationInsights.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\SVC.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\BLL.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\DAL.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\SVC.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.Web.xml
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.ApplicationInsights.xml
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\BLL.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\bin\DAL.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\obj\Debug\SITE.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master\TEORIA-SITEMAS-master\WCF\SITE\obj\Debug\SITE.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\ApplicationInsights.config
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\SITE.dll.config
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\SITE.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\SITE.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\Microsoft.AI.Web.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\SVC.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\BLL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\DAL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\SVC.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\Microsoft.AI.Web.xml
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\BLL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\bin\DAL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\obj\Debug\SITE.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\SITE\obj\Debug\SITE.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\ApplicationInsights.config
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\SITE.dll.config
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\SITE.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\SITE.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.Web.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\SVC.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\BLL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\DAL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\SVC.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.Web.xml
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\BLL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\bin\DAL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\obj\Debug\SITE.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\SITE\obj\Debug\SITE.pdb
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\ApplicationInsights.config
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\SITE.dll.config
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\SITE.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\SITE.pdb
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\Microsoft.AI.Web.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\Microsoft.ApplicationInsights.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\SVC.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\BLL.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\DAL.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\SVC.pdb
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\Microsoft.AI.Web.xml
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\Microsoft.ApplicationInsights.xml
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\BLL.pdb
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\bin\DAL.pdb
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\obj\Debug\SITE.dll
+C:\Users\u\Desktop\Solutions+DB\WCF\SITE\obj\Debug\SITE.pdb

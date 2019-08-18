@@ -1,0 +1,406 @@
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\PL.dll.config
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\PL.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\PL.pdb
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\csc.exe
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\csc.exe.config
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\csc.rsp
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\csi.exe
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\csi.exe.config
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\csi.rsp
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.AppContext.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Console.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.IO.Compression.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.Claims.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.ValueTuple.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\vbc.exe
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\vbc.exe.config
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\vbc.rsp
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\BLL.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\DAL.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\BLL.pdb
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\DAL.pdb
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\obj\Debug\PL.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\obj\Debug\PL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\PL.dll.config
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\PL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\PL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\csc.exe
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\csc.exe.config
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\csc.rsp
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\csi.exe
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\csi.exe.config
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\csi.rsp
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.AppContext.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Console.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.IO.Compression.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Security.Claims.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.ValueTuple.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\vbc.exe
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\vbc.exe.config
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\vbc.rsp
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\BLL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\DAL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\BLL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\DAL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\obj\Debug\PL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\PL\obj\Debug\PL.pdb
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\PL.dll.config
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\PL.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\PL.pdb
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\csc.exe
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\csc.exe.config
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\csc.rsp
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\csi.exe
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\csi.exe.config
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\csi.rsp
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.AppContext.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Console.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.IO.Compression.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Security.Claims.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.ValueTuple.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\vbc.exe
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\vbc.exe.config
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\vbc.rsp
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\BLL.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\DAL.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\BLL.pdb
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\DAL.pdb
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\obj\Debug\PL.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\PL\obj\Debug\PL.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\PL.dll.config
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\PL.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\PL.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\csc.exe
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\csc.exe.config
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\csc.rsp
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\csi.exe
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\csi.exe.config
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\csi.rsp
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.AppContext.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Console.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.IO.Compression.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.Claims.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.ValueTuple.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\vbc.exe
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\vbc.exe.config
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\vbc.rsp
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\BLL.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\DAL.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\BLL.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\DAL.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\obj\Debug\PL.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\PL\obj\Debug\PL.pdb
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\PL.dll.config
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\PL.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\PL.pdb
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\csc.exe
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\csc.exe.config
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\csc.rsp
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\csi.exe
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\csi.exe.config
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\csi.rsp
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.AppContext.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Console.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.IO.Compression.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Security.Claims.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.ValueTuple.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\vbc.exe
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\vbc.exe.config
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\vbc.rsp
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\BLL.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\DAL.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\BLL.pdb
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\DAL.pdb
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\obj\Debug\PL.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\PL\obj\Debug\PL.pdb
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\PL.dll.config
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\PL.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\PL.pdb
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\csc.exe
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\csc.exe.config
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\csc.rsp
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\csi.exe
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\csi.exe.config
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\csi.rsp
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.AppContext.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Console.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.IO.Compression.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Security.Claims.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.ValueTuple.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\vbc.exe
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\vbc.exe.config
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\vbc.rsp
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\BLL.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\DAL.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\BLL.pdb
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\DAL.pdb
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\obj\Debug\PL.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\PL\obj\Debug\PL.pdb
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\PL.dll.config
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\PL.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\PL.pdb
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\csc.exe
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\csc.exe.config
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\csc.rsp
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\csi.exe
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\csi.exe.config
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\csi.rsp
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.AppContext.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Console.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.IO.Compression.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Security.Claims.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.ValueTuple.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\vbc.exe
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\vbc.exe.config
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\vbc.rsp
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\BLL.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\DAL.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\BLL.pdb
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\DAL.pdb
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\obj\Debug\PL.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\PL\obj\Debug\PL.pdb

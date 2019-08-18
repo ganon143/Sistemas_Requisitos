@@ -1,0 +1,8 @@
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\bin\Release\BLL.dll.config
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\bin\Release\BLL.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\bin\Release\BLL.pdb
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\bin\Release\DAL.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\bin\Release\DAL.pdb
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\obj\Release\BLL.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\obj\Release\BLL.pdb

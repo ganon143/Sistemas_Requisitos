@@ -1,0 +1,14 @@
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\DAL\bin\Debug\DAL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\DAL\bin\Debug\DAL.pdb
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\DAL\obj\Debug\DAL.dll
+C:\Users\U\Desktop\II-Proyecto-Programacion-IV-master 3\II-Proyecto-Programacion-IV-master\WCFEncomiendas\DAL\obj\Debug\DAL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\DAL\bin\Debug\DAL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\DAL\bin\Debug\DAL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\DAL\obj\Debug\DAL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WCF\DAL\obj\Debug\DAL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\DAL\bin\Debug\DAL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\DAL\bin\Debug\DAL.pdb
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\DAL\obj\Debug\DAL.dll
+C:\Users\ExtremeTech\Downloads\SeriesNet\TEORIA-SITEMAS-master\WCF\DAL\obj\Debug\DAL.pdb

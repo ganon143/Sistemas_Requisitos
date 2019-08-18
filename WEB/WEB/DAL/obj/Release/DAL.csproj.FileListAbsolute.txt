@@ -1,0 +1,4 @@
+C:\Users\ExtremeTech\Downloads\WEB\WEB\DAL\bin\Release\DAL.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\DAL\bin\Release\DAL.pdb
+C:\Users\ExtremeTech\Downloads\WEB\WEB\DAL\obj\Release\DAL.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\DAL\obj\Release\DAL.pdb

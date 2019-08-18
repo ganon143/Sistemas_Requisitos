@@ -1,0 +1,56 @@
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\bin\Debug\BLL.dll.config
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\bin\Debug\BLL.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\bin\Debug\BLL.pdb
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\bin\Debug\DAL.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\bin\Debug\DAL.pdb
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\obj\Debug\BLL.dll
+C:\Users\U\Downloads\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\obj\Debug\BLL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\BLL\bin\Debug\BLL.dll.config
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\BLL\bin\Debug\BLL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\BLL\bin\Debug\BLL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\BLL\bin\Debug\DAL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\BLL\bin\Debug\DAL.pdb
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\BLL\obj\Debug\BLL.dll
+C:\Users\Laboratorio\Source\Repos\ganon143\TEORIA-SITEMAS\WEB\BLL\obj\Debug\BLL.pdb
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\BLL\bin\Debug\BLL.dll.config
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\BLL\bin\Debug\BLL.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\BLL\bin\Debug\BLL.pdb
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\BLL\bin\Debug\DAL.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\BLL\bin\Debug\DAL.pdb
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\BLL\obj\Debug\BLL.dll
+C:\Users\Adrian\Source\Repos\TEORIA-SITEMAS7\WEB\BLL\obj\Debug\BLL.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\bin\Debug\BLL.dll.config
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\bin\Debug\BLL.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\bin\Debug\BLL.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\bin\Debug\DAL.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\bin\Debug\DAL.pdb
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\obj\Debug\BLL.dll
+C:\Users\U\Desktop\TEORIA-SITEMAS-master (1)\TEORIA-SITEMAS-master\WEB\BLL\obj\Debug\BLL.pdb
+C:\Users\U\Source\Repos\Sistemas\WEB\BLL\bin\Debug\BLL.dll.config
+C:\Users\U\Source\Repos\Sistemas\WEB\BLL\bin\Debug\BLL.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\BLL\bin\Debug\BLL.pdb
+C:\Users\U\Source\Repos\Sistemas\WEB\BLL\bin\Debug\DAL.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\BLL\bin\Debug\DAL.pdb
+C:\Users\U\Source\Repos\Sistemas\WEB\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\U\Source\Repos\Sistemas\WEB\BLL\obj\Debug\BLL.dll
+C:\Users\U\Source\Repos\Sistemas\WEB\BLL\obj\Debug\BLL.pdb
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\bin\Debug\BLL.dll.config
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\bin\Debug\BLL.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\bin\Debug\BLL.pdb
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\bin\Debug\DAL.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\bin\Debug\DAL.pdb
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\obj\Debug\BLL.dll
+C:\Users\ExtremeTech\Downloads\WEB\WEB\BLL\obj\Debug\BLL.pdb
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\BLL\bin\Debug\BLL.dll.config
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\BLL\bin\Debug\BLL.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\BLL\bin\Debug\BLL.pdb
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\BLL\bin\Debug\DAL.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\BLL\bin\Debug\DAL.pdb
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\BLL\obj\Debug\BLL.dll
+C:\Users\u\Desktop\Solutions+DB\WEB\WEB\BLL\obj\Debug\BLL.pdb
